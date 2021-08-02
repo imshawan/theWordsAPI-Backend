@@ -1,0 +1,1004 @@
+{
+  "audio_dictionary": [
+    {
+      "id": 1,
+      "word": "obviation",
+      "contents": [
+        {
+          "pronunciation": "ob-vee-eyt",
+          "audio": "https://static.sfdict.com/audio/lunawav/O00/O0022300.ogg"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "word": "he",
+      "contents": [
+        {
+          "pronunciation": "hee; unstressed ee",
+          "audio": "https://static.sfdict.com/audio/lunawav/H01/H0133500.ogg"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "word": "south",
+      "contents": [
+        {
+          "pronunciation": "noun, adjective, adverb south; verb south, south",
+          "audio": "https://static.sfdict.com/audio/lunawav/NEW/NEW14650.ogg"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "word": "murder",
+      "contents": [
+        {
+          "pronunciation": "mur-der",
+          "audio": "https://static.sfdict.com/audio/lunawav/M06/M0692800.ogg"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "word": "knurly",
+      "contents": [
+        {
+          "pronunciation": "nur-lee",
+          "audio": "https://static.sfdict.com/audio/lunawav/K01/K0155400.ogg"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "word": "yahwe",
+      "contents": [
+        {
+          "pronunciation": "yah-we",
+          "audio": "https://static.sfdict.com/audio/lunawav/Y00/Y0002500.ogg"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "word": "grumose",
+      "contents": [
+        {
+          "pronunciation": "groo-muhs",
+          "audio": "https://static.sfdict.com/audio/lunawav/G03/G0372600.ogg"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "word": "tympanist",
+      "contents": [
+        {
+          "pronunciation": "tim-puh-nist",
+          "audio": "https://static.sfdict.com/audio/lunawav/T06/T0614900.ogg"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "word": "diphyodont",
+      "contents": [
+        {
+          "pronunciation": "dif-ee-uh-dont",
+          "audio": "https://static.sfdict.com/audio/lunawav/D03/D0328400.ogg"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "word": "plowboy",
+      "contents": [
+        {
+          "pronunciation": "plou-boi",
+          "audio": "https://static.sfdict.com/audio/lunawav/P05/P0553100.ogg"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "word": "vinometer",
+      "contents": [
+        {
+          "pronunciation": "vi-nom-i-ter, vahy-",
+          "audio": "https://static.sfdict.com/audio/lunawav/V01/V0141600.ogg"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "word": "slipperwort",
+      "contents": [
+        {
+          "pronunciation": "slip-er-wurt, -wawrt",
+          "audio": "https://static.sfdict.com/audio/lunawav/S06/S0624800.ogg"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "word": "temporizingly",
+      "contents": [
+        {
+          "pronunciation": "tem-puh-rahyz",
+          "audio": "https://static.sfdict.com/audio/lunawav/T01/T0134600.ogg"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "word": "ambient",
+      "contents": [
+        {
+          "pronunciation": "am-bee-uhnt",
+          "audio": "https://static.sfdict.com/audio/lunawav/A03/A0375700.ogg"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "word": "fulmine",
+      "contents": [
+        {
+          "pronunciation": "fuhl-min",
+          "audio": "https://static.sfdict.com/audio/lunawav/F04/F0413100.ogg"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "word": "copiousness",
+      "contents": [
+        {
+          "pronunciation": "koh-pee-uhs",
+          "audio": "https://static.sfdict.com/audio/lunawav/C08/C0828700.ogg"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "word": "boarder",
+      "contents": [
+        {
+          "pronunciation": "bawr-der, bohr-",
+          "audio": "https://static.sfdict.com/audio/lunawav/B04/B0442100.ogg"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "word": "impleader",
+      "contents": [
+        {
+          "pronunciation": "im-plee-der",
+          "audio": "https://static.sfdict.com/audio/lunawav/I00/I0078600.ogg"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "word": "triens",
+      "contents": [
+        {
+          "pronunciation": "trahy-enz",
+          "audio": "https://static.sfdict.com/audio/lunawav/T04/T0489300.ogg"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "word": "pyrosulphuric",
+      "contents": [
+        {
+          "pronunciation": "pahy-roh-suhl-fyoor-ik",
+          "audio": "https://static.sfdict.com/audio/lunawav/P09/P0972100.ogg"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "word": "sirvente",
+      "contents": [
+        {
+          "pronunciation": "ser-vent; French seer-vahnt",
+          "audio": "https://static.sfdict.com/audio/lunawav/S05/S0565700.ogg"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "word": "monopathy",
+      "contents": [
+        {
+          "pronunciation": "m\u0259-n\u014fp\u2032\u0259-th\u0113",
+          "audio": "https://static.sfdict.com/audio/T03/T0374200.mp3"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "word": "copyist",
+      "contents": [
+        {
+          "pronunciation": "kop-ee-ist",
+          "audio": "https://static.sfdict.com/audio/lunawav/C08/C0835800.ogg"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "word": "hosteler",
+      "contents": [
+        {
+          "pronunciation": "hos-tl-er",
+          "audio": "https://static.sfdict.com/audio/lunawav/H03/H0394000.ogg"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "word": "apothegmatical",
+      "contents": [
+        {
+          "pronunciation": "ap-uh-them",
+          "audio": "https://static.sfdict.com/audio/lunawav/A06/A0604000.ogg"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "word": "unpaganize",
+      "contents": [
+        {
+          "pronunciation": "pey-guh-nahyz",
+          "audio": "https://static.sfdict.com/audio/lunawav/P00/P0013800.ogg"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "word": "prelector",
+      "contents": [
+        {
+          "pronunciation": "pri-lekt",
+          "audio": "https://static.sfdict.com/audio/lunawav/P07/P0738200.ogg"
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "word": "surrogation",
+      "contents": [
+        {
+          "pronunciation": "noun, adjective sur-uh-geyt, -git, suhr-; verb sur-uh-geyt, suhr-",
+          "audio": "https://static.sfdict.com/audio/lunawav/S11/S1159900.ogg"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "word": "desirably",
+      "contents": [
+        {
+          "pronunciation": "dih-zahyuhr-uh-buhl",
+          "audio": "https://static.sfdict.com/audio/lunawav/D02/D0215700.ogg"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "word": "felly",
+      "contents": [
+        {
+          "pronunciation": "fel-ee",
+          "audio": "https://static.sfdict.com/audio/lunawav/F00/F0084600.ogg"
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "word": "misproud",
+      "contents": [
+        {
+          "pronunciation": "mis-proud",
+          "audio": "https://static.sfdict.com/audio/lunawav/M04/M0493700.ogg"
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "word": "dey",
+      "contents": [
+        {
+          "pronunciation": "dey",
+          "audio": "https://static.sfdict.com/audio/lunawav/D02/D0250000.ogg"
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "word": "exposedness",
+      "contents": [
+        {
+          "pronunciation": "ik-spohzd",
+          "audio": "https://static.sfdict.com/audio/lunawav/E04/E0418500.ogg"
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "word": "aromatize",
+      "contents": [
+        {
+          "pronunciation": "uh-roh-muh-tahyz",
+          "audio": "https://static.sfdict.com/audio/lunawav/A06/A0692700.ogg"
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "word": "rompingly",
+      "contents": [
+        {
+          "pronunciation": "romp",
+          "audio": "https://static.sfdict.com/audio/lunawav/R03/R0374500.ogg"
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "word": "oylet",
+      "contents": [
+        {
+          "pronunciation": "oi-lit",
+          "audio": "https://static.sfdict.com/audio/lunawav/O02/O0281400.ogg"
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "word": "enhearten",
+      "contents": [
+        {
+          "pronunciation": "en-hahr-tn",
+          "audio": "https://static.sfdict.com/audio/lunawav/E01/E0194200.ogg"
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "word": "empale",
+      "contents": [
+        {
+          "pronunciation": "em-peyl",
+          "audio": "https://static.sfdict.com/audio/lunawav/E01/E0146400.ogg"
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "word": "subpellucid",
+      "contents": [
+        {
+          "pronunciation": "puh-loo-sid",
+          "audio": "https://static.sfdict.com/audio/lunawav/P02/P0224400.ogg"
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "word": "beechy",
+      "contents": [
+        {
+          "pronunciation": "beech",
+          "audio": "https://static.sfdict.com/audio/lunawav/B01/B0199300.ogg"
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "word": "cacodylic",
+      "contents": [
+        {
+          "pronunciation": "kak-uh-dil-ik",
+          "audio": "https://static.sfdict.com/audio/lunawav/C00/C0014100.ogg"
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "word": "corbiestep",
+      "contents": [
+        {
+          "pronunciation": "kawr-bee-step",
+          "audio": "https://static.sfdict.com/audio/lunawav/C08/C0841400.ogg"
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "word": "paleology",
+      "contents": [
+        {
+          "pronunciation": "pey-lee-ol-uh-jee or, especially British, pal-e-",
+          "audio": "https://static.sfdict.com/audio/lunawav/P00/P0031600.ogg"
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "word": "disorganization",
+      "contents": [
+        {
+          "pronunciation": "dis-awr-guh-nuh-zey-shuhn",
+          "audio": "https://static.sfdict.com/audio/lunawav/D03/D0375700.ogg"
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "word": "oxygenizable",
+      "contents": [
+        {
+          "pronunciation": "ok-si-juh-nahyz",
+          "audio": "https://static.sfdict.com/audio/lunawav/O02/O0279100.ogg"
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "word": "varicotomy",
+      "contents": [
+        {
+          "pronunciation": "var-i-kot-uh-mee",
+          "audio": "https://static.sfdict.com/audio/lunawav/V00/V0037800.ogg"
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "word": "baldachin",
+      "contents": [
+        {
+          "pronunciation": "bal-duh-kin, bawl-",
+          "audio": "https://static.sfdict.com/audio/lunawav/B00/B0051200.ogg"
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "word": "bluish",
+      "contents": [
+        {
+          "pronunciation": "bloo-ish",
+          "audio": "https://static.sfdict.com/audio/lunawav/B04/B0438900.ogg"
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "word": "carpale",
+      "contents": [
+        {
+          "pronunciation": "kahr-pey-lee",
+          "audio": "https://static.sfdict.com/audio/lunawav/C01/C0164900.ogg"
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "word": "coiner",
+      "contents": [
+        {
+          "pronunciation": "koin",
+          "audio": "https://static.sfdict.com/audio/lunawav/C06/C0630600.ogg"
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "word": "inconsequentness",
+      "contents": [
+        {
+          "pronunciation": "in-kon-si-kwent, -kwuhnt",
+          "audio": "https://static.sfdict.com/audio/lunawav/I01/I0111900.ogg"
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "word": "diarrheal",
+      "contents": [
+        {
+          "pronunciation": "dahy-uh-ree-uh",
+          "audio": "https://static.sfdict.com/audio/lunawav/D02/D0267100.ogg"
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "word": "supercretaceous",
+      "contents": [
+        {
+          "pronunciation": "kri-tey-shuhs",
+          "audio": "https://static.sfdict.com/audio/lunawav/C09/C0970500.ogg"
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "word": "detachable",
+      "contents": [
+        {
+          "pronunciation": "dih-tach",
+          "audio": "https://static.sfdict.com/audio/lunawav/D02/D0225100.ogg"
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "word": "shikaree",
+      "contents": [
+        {
+          "pronunciation": "shi-kahr-ee",
+          "audio": "https://static.sfdict.com/audio/lunawav/S04/S0446400.ogg"
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "word": "depolarizer",
+      "contents": [
+        {
+          "pronunciation": "dee-poh-luh-rahy-zer",
+          "audio": "https://static.sfdict.com/audio/lunawav/D01/D0190900.ogg"
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "word": "blazonment",
+      "contents": [
+        {
+          "pronunciation": "bley-zuhn",
+          "audio": "https://static.sfdict.com/audio/lunawav/B04/B0406500.ogg"
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "word": "misbecome",
+      "contents": [
+        {
+          "pronunciation": "mis-bi-kuhm",
+          "audio": "https://static.sfdict.com/audio/lunawav/M04/M0477200.ogg"
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "word": "lalo",
+      "contents": [
+        {
+          "pronunciation": "la-loh",
+          "audio": "https://static.sfdict.com/audio/lunawav/L00/L0040200.ogg"
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "word": "moder",
+      "contents": [
+        {
+          "pronunciation": "mohd",
+          "audio": "https://static.sfdict.com/audio/lunawav/M05/M0518500.ogg"
+        }
+      ]
+    },
+    {
+      "id": 61,
+      "word": "souari nut",
+      "contents": [
+        {
+          "pronunciation": "soo-ahr-ee",
+          "audio": "https://static.sfdict.com/audio/lunawav/S07/S0739600.ogg"
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "word": "subcorneous",
+      "contents": [
+        {
+          "pronunciation": "kawr-nee-uhs",
+          "audio": "https://static.sfdict.com/audio/lunawav/C08/C0854200.ogg"
+        }
+      ]
+    },
+    {
+      "id": 63,
+      "word": "sulcation",
+      "contents": [
+        {
+          "pronunciation": "suhl-keyt",
+          "audio": "https://static.sfdict.com/audio/lunawav/S10/S1096900.ogg"
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "word": "cicisbeism",
+      "contents": [
+        {
+          "pronunciation": "chee-chiz-bey-iz-uhm or, older use, si-sis-bee-",
+          "audio": "https://static.sfdict.com/audio/lunawav/C04/C0484700.ogg"
+        }
+      ]
+    },
+    {
+      "id": 65,
+      "word": "communicant",
+      "contents": [
+        {
+          "pronunciation": "kuh-myoo-ni-kuhnt",
+          "audio": "https://static.sfdict.com/audio/lunawav/C06/C0689100.ogg"
+        }
+      ]
+    },
+    {
+      "id": 66,
+      "word": "tuille",
+      "contents": [
+        {
+          "pronunciation": "tweel",
+          "audio": "https://static.sfdict.com/audio/lunawav/T05/T0562700.ogg"
+        }
+      ]
+    },
+    {
+      "id": 67,
+      "word": "disentomb",
+      "contents": [
+        {
+          "pronunciation": "dis-en-toom",
+          "audio": "https://static.sfdict.com/audio/lunawav/D03/D0361000.ogg"
+        }
+      ]
+    },
+    {
+      "id": 68,
+      "word": "dispensableness",
+      "contents": [
+        {
+          "pronunciation": "dih-spen-suh-buhl",
+          "audio": "https://static.sfdict.com/audio/lunawav/D03/D0377800.ogg"
+        }
+      ]
+    },
+    {
+      "id": 69,
+      "word": "deprivable",
+      "contents": [
+        {
+          "pronunciation": "dih-prahyv",
+          "audio": "https://static.sfdict.com/audio/lunawav/D01/D0195300.ogg"
+        }
+      ]
+    },
+    {
+      "id": 70,
+      "word": "bibliothecal",
+      "contents": [
+        {
+          "pronunciation": "bib-lee-uh-thee-kuh",
+          "audio": "https://static.sfdict.com/audio/lunawav/B03/B0304000.ogg"
+        }
+      ]
+    },
+    {
+      "id": 71,
+      "word": "drubber",
+      "contents": [
+        {
+          "pronunciation": "druhb",
+          "audio": "https://static.sfdict.com/audio/lunawav/D05/D0542500.ogg"
+        }
+      ]
+    },
+    {
+      "id": 72,
+      "word": "egad",
+      "contents": [
+        {
+          "pronunciation": "ih-gad, ee-gad",
+          "audio": "https://static.sfdict.com/audio/lunawav/E00/E0057500.ogg"
+        }
+      ]
+    },
+    {
+      "id": 73,
+      "word": "boned",
+      "contents": [
+        {
+          "pronunciation": "bohnd",
+          "audio": "https://static.sfdict.com/audio/lunawav/B04/B0484900.ogg"
+        }
+      ]
+    },
+    {
+      "id": 74,
+      "word": "odontiasis",
+      "contents": [
+        {
+          "pronunciation": "oh-don-tahy-uh-sis",
+          "audio": "https://static.sfdict.com/audio/lunawav/O00/O0043200.ogg"
+        }
+      ]
+    },
+    {
+      "id": 75,
+      "word": "disorganize",
+      "contents": [
+        {
+          "pronunciation": "dis-awr-guh-nahyz",
+          "audio": "https://static.sfdict.com/audio/lunawav/D03/D0375800.ogg"
+        }
+      ]
+    },
+    {
+      "id": 76,
+      "word": "entoblast",
+      "contents": [
+        {
+          "pronunciation": "en-tuh-blast",
+          "audio": "https://static.sfdict.com/audio/lunawav/E02/E0214900.ogg"
+        }
+      ]
+    },
+    {
+      "id": 77,
+      "word": "heroical",
+      "contents": [
+        {
+          "pronunciation": "hi-roh-ik",
+          "audio": "https://static.sfdict.com/audio/lunawav/H02/H0228500.ogg"
+        }
+      ]
+    },
+    {
+      "id": 78,
+      "word": "sizy",
+      "contents": [
+        {
+          "pronunciation": "sahy-zee",
+          "audio": "https://static.sfdict.com/audio/lunawav/S05/S0578600.ogg"
+        }
+      ]
+    },
+    {
+      "id": 79,
+      "word": "barbarousness",
+      "contents": [
+        {
+          "pronunciation": "bahr-ber-uhs",
+          "audio": "https://static.sfdict.com/audio/lunawav/B00/B0092800.ogg"
+        }
+      ]
+    },
+    {
+      "id": 80,
+      "word": "agreeably",
+      "contents": [
+        {
+          "pronunciation": "uh-gree-uh-buhl",
+          "audio": "https://static.sfdict.com/audio/lunawav/A02/A0224400.ogg"
+        }
+      ]
+    },
+    {
+      "id": 81,
+      "word": "turriculated",
+      "contents": [
+        {
+          "pronunciation": "tuh-rik-yuh-lit, -leyt",
+          "audio": "https://static.sfdict.com/audio/lunawav/T05/T0587000.ogg"
+        }
+      ]
+    },
+    {
+      "id": 82,
+      "word": "interjoin",
+      "contents": [
+        {
+          "pronunciation": "in-ter-join",
+          "audio": "https://static.sfdict.com/audio/lunawav/I02/I0238800.ogg"
+        }
+      ]
+    },
+    {
+      "id": 83,
+      "word": "chemisette",
+      "contents": [
+        {
+          "pronunciation": "shem-uh-zet",
+          "audio": "https://static.sfdict.com/audio/lunawav/C03/C0366300.ogg"
+        }
+      ]
+    },
+    {
+      "id": 84,
+      "word": "clubhand",
+      "contents": [
+        {
+          "pronunciation": "kluhb-hand",
+          "audio": "https://static.sfdict.com/audio/lunawav/C05/C0579700.ogg"
+        }
+      ]
+    },
+    {
+      "id": 85,
+      "word": "jumbler",
+      "contents": [
+        {
+          "pronunciation": "juhm-buhl",
+          "audio": "https://static.sfdict.com/audio/lunawav/J01/J0111000.ogg"
+        }
+      ]
+    },
+    {
+      "id": 86,
+      "word": "stern-wheel",
+      "contents": [
+        {
+          "pronunciation": "sturn-hweel, -weel",
+          "audio": "https://static.sfdict.com/audio/lunawav/S09/S0938200.ogg"
+        }
+      ]
+    },
+    {
+      "id": 87,
+      "word": "heteroptics",
+      "contents": [
+        {
+          "pronunciation": "het-uh-rop-tiks",
+          "audio": "https://static.sfdict.com/audio/lunawav/H02/H0247300.ogg"
+        }
+      ]
+    },
+    {
+      "id": 88,
+      "word": "consultative",
+      "contents": [
+        {
+          "pronunciation": "kuhn-suhl-tuh-tiv, kon-suhl-tey-tiv",
+          "audio": "https://static.sfdict.com/audio/lunawav/C07/C0784700.ogg"
+        }
+      ]
+    },
+    {
+      "id": 89,
+      "word": "coxcomb",
+      "contents": [
+        {
+          "pronunciation": "koks-kohm",
+          "audio": "https://static.sfdict.com/audio/lunawav/C09/C0935400.ogg"
+        }
+      ]
+    },
+    {
+      "id": 90,
+      "word": "vanillic",
+      "contents": [
+        {
+          "pronunciation": "vuh-nil-ik",
+          "audio": "https://static.sfdict.com/audio/lunawav/V00/V0028600.ogg"
+        }
+      ]
+    },
+    {
+      "id": 91,
+      "word": "catholicon",
+      "contents": [
+        {
+          "pronunciation": "kuh-thol-i-kuhn",
+          "audio": "https://static.sfdict.com/audio/lunawav/C02/C0222100.ogg"
+        }
+      ]
+    },
+    {
+      "id": 92,
+      "word": "lutose",
+      "contents": [
+        {
+          "pronunciation": "loo-tohs",
+          "audio": "https://static.sfdict.com/audio/lunawav/L04/L0441500.ogg"
+        }
+      ]
+    },
+    {
+      "id": 93,
+      "word": "addle",
+      "contents": [
+        {
+          "pronunciation": "ad-l",
+          "audio": "https://static.sfdict.com/audio/lunawav/A01/A0122200.ogg"
+        }
+      ]
+    },
+    {
+      "id": 94,
+      "word": "sinaic",
+      "contents": [
+        {
+          "pronunciation": "sahy-nahy, sahy-nee-ahy",
+          "audio": "https://static.sfdict.com/audio/lunawav/S05/S0544100.ogg"
+        }
+      ]
+    },
+    {
+      "id": 95,
+      "word": "baksheesh",
+      "contents": [
+        {
+          "pronunciation": "bak-sheesh, bak-sheesh",
+          "audio": "https://static.sfdict.com/audio/lunawav/B00/B0046700.ogg"
+        }
+      ]
+    },
+    {
+      "id": 96,
+      "word": "habitan",
+      "contents": [
+        {
+          "pronunciation": "French a-bee-tahn",
+          "audio": "https://static.sfdict.com/audio/lunawav/H00/H0003200.ogg"
+        }
+      ]
+    },
+    {
+      "id": 97,
+      "word": "excrementitious",
+      "contents": [
+        {
+          "pronunciation": "ek-skruh-men-tish-uhs",
+          "audio": "https://static.sfdict.com/audio/lunawav/E03/E0384400.ogg"
+        }
+      ]
+    },
+    {
+      "id": 98,
+      "word": "seedcake",
+      "contents": [
+        {
+          "pronunciation": "seed-keyk",
+          "audio": "https://static.sfdict.com/audio/lunawav/S02/S0265400.ogg"
+        }
+      ]
+    },
+    {
+      "id": 99,
+      "word": "vinum",
+      "contents": [
+        {
+          "pronunciation": "vahy-nuhm, vee-",
+          "audio": "https://static.sfdict.com/audio/lunawav/V01/V0142800.ogg"
+        }
+      ]
+    },
+    {
+      "id": 100,
+      "word": "oxybenzene",
+      "contents": [
+        {
+          "pronunciation": "ok-si-ben-zeen, -ben-zeen",
+          "audio": "https://static.sfdict.com/audio/lunawav/O02/O0277900.ogg"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2384 @@
+{
+  "dictionary": [
+    {
+      "id": 1,
+      "word": "anopheles",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "A mosquito of a genus which is particularly common in warmer countries and includes the mosquitoes that transmit the malarial parasite to humans.",
+              "example": "Of the thousands of mosquito types, only the genus anopheles transmits malaria to humans."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "word": "sarong",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "A garment consisting of a long piece of cloth worn wrapped round the body and tucked at the waist or under the armpits, traditionally worn in Southeast Asia and now also by women in the West.",
+              "example": "The young women simply wrapped the sarongs around their waists."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "word": "turcoman",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "another term for Turkmen"
+            },
+            {
+              "definition": "A kind of large, soft, richly coloured rug made by the Turkmens."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "word": "pock",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "A pockmark.",
+              "synonyms": [
+                "scar",
+                "pit",
+                "pock",
+                "pitted scar",
+                "mark",
+                "blemish"
+              ],
+              "example": "He was a strange-looking man, olived-skinned face marked with scars and pocks from unknown battles."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "word": "hawser",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "A thick rope or cable for mooring or towing a ship.",
+              "synonyms": [
+                "twine",
+                "cord",
+                "yarn",
+                "thread",
+                "strand",
+                "fibre"
+              ],
+              "example": "Many of the ship's 625 passengers peered at the spectacle below, as the ship was moored along the pier and held by thick hawsers."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "word": "proterandry",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "Protandry."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "word": "bathos",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "(especially in a work of literature) an effect of anticlimax created by an unintentional lapse in mood from the sublime to the trivial or ridiculous.",
+              "synonyms": [
+                "anticlimax",
+                "let-down",
+                "disappointment",
+                "disillusionment"
+              ],
+              "example": "his epic poem has passages of almost embarrassing bathos"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "word": "overtread",
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "definitions": [
+            {
+              "definition": "To step beyond; to overstep."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "word": "fun",
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "definitions": [
+            {
+              "definition": "Joke or tease.",
+              "synonyms": [
+                "make fun of",
+                "poke fun at",
+                "chaff",
+                "make jokes about",
+                "rag",
+                "mock",
+                "laugh at",
+                "guy",
+                "satirize",
+                "be sarcastic about"
+              ]
+            }
+          ]
+        },
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "Enjoyment, amusement, or lighthearted pleasure.",
+              "synonyms": [
+                "pleasure",
+                "entertainment",
+                "enjoyment",
+                "amusement",
+                "excitement",
+                "gratification"
+              ],
+              "example": "the children were having fun in the play area"
+            }
+          ]
+        },
+        {
+          "partOfSpeech": "adjective",
+          "definitions": [
+            {
+              "definition": "Amusing, entertaining, or enjoyable.",
+              "synonyms": [
+                "enjoyable",
+                "amusing",
+                "diverting",
+                "pleasurable",
+                "pleasing",
+                "agreeable",
+                "interesting"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "word": "mixer",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "A machine or device for mixing things, especially an electrical appliance for mixing foods.",
+              "synonyms": [
+                "blender",
+                "food processor",
+                "liquidizer",
+                "stirrer",
+                "beater",
+                "churn",
+                "whisk"
+              ],
+              "example": "a food mixer"
+            },
+            {
+              "definition": "A person considered in terms of their ability to mix socially with others.",
+              "example": "media people need to be good mixers"
+            },
+            {
+              "definition": "A soft drink that can be mixed with alcohol.",
+              "example": "use low-calorie mixers in your cocktails"
+            },
+            {
+              "definition": "(in sound recording and cinematography) a device for merging input signals to produce a combined output in the form of sound or pictures.",
+              "example": "Your default mixer and audio devices should be automatically detected, so that part should already be filled in."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "word": "blazer",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "A lightweight jacket, typically solid-colored, often worn as part of a uniform by members of a club, sports team, or school.",
+              "example": "He was wearing a white shirt, school tie, grey pants and a blue blazer with their school emblem on it."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "word": "elegist",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "A writer of an elegy or elegies."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "word": "conspirator",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "A person who takes part in a conspiracy.",
+              "synonyms": [
+                "conspirer",
+                "plotter",
+                "schemer",
+                "intriguer",
+                "colluder",
+                "collaborator",
+                "conniver",
+                "machinator",
+                "confederate",
+                "cabalist"
+              ],
+              "example": "conspirators had planned to seize the state"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "word": "quinze",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "A card game resembling pontoon, in which the object is to acquire cards with a face value totalling fifteen points, or to come as near as possible to that number without exceeding it."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "word": "wobble",
+      "meanings": [
+        {
+          "partOfSpeech": "intransitive verb",
+          "definitions": [
+            {
+              "definition": "Move unsteadily from side to side.",
+              "synonyms": [
+                "rock",
+                "move unsteadily",
+                "jiggle",
+                "sway",
+                "see-saw",
+                "teeter"
+              ],
+              "example": "the table wobbles where the leg is too short"
+            }
+          ]
+        },
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "An unsteady movement from side to side.",
+              "synonyms": [
+                "unsteady movement",
+                "totter",
+                "teeter",
+                "sway"
+              ],
+              "example": "the handlebars developed a wobble"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "word": "dissimulate",
+      "meanings": [
+        {
+          "partOfSpeech": "transitive verb",
+          "definitions": [
+            {
+              "definition": "Conceal or disguise (one's thoughts, feelings, or character)",
+              "synonyms": [
+                "pretend",
+                "deceive",
+                "feign",
+                "act",
+                "dissemble",
+                "masquerade",
+                "pose",
+                "posture",
+                "sham",
+                "fake",
+                "bluff",
+                "counterfeit",
+                "go through the motions",
+                "hide one's feelings",
+                "be dishonest",
+                "put on a false front",
+                "lie"
+              ],
+              "example": "a country gentleman who dissimulates his wealth beneath ragged pullovers"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "word": "hempen",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "definitions": [
+            {
+              "definition": "Made from hemp fiber.",
+              "example": "hempen rope"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "word": "saline",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "A solution of salt in water.",
+              "example": "A saline abortion is a solution of salt saline that is injected into the mothers womb."
+            }
+          ]
+        },
+        {
+          "partOfSpeech": "adjective",
+          "definitions": [
+            {
+              "definition": "Containing or impregnated with salt.",
+              "example": "saline alluvial soils"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "word": "stalagmite",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "A mound or tapering column rising from the floor of a cave, formed of calcium salts deposited by dripping water and often uniting with a stalactite.",
+              "synonyms": [
+                "pillar",
+                "column"
+              ],
+              "example": "Icicles, stalactites, stalagmites, lava tubes, and some crystals may be considered cylindrical, but the rest of the nonbiotic Universe has other shapes."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "word": "sex",
+      "meanings": [
+        {
+          "partOfSpeech": "transitive verb",
+          "definitions": [
+            {
+              "definition": "Determine the sex of.",
+              "example": "sexing chickens"
+            },
+            {
+              "definition": "Present something in a more interesting or lively way."
+            },
+            {
+              "definition": "Arouse or attempt to arouse someone sexually."
+            }
+          ]
+        },
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "(chiefly with reference to people) sexual activity, including specifically sexual intercourse.",
+              "synonyms": [
+                "sexual intercourse",
+                "intercourse",
+                "lovemaking",
+                "making love",
+                "sex act",
+                "sexual relations"
+              ],
+              "example": "they enjoyed talking about sex"
+            },
+            {
+              "definition": "Either of the two main categories (male and female) into which humans and most other living things are divided on the basis of their reproductive functions.",
+              "synonyms": [
+                "gender"
+              ],
+              "example": "adults of both sexes"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "word": "faquir",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "A Muslim (or, loosely, a Hindu) religious ascetic who lives solely on alms.",
+              "synonyms": [
+                "abstainer",
+                "recluse",
+                "hermit",
+                "solitary",
+                "anchorite",
+                "anchoress",
+                "desert saint",
+                "celibate",
+                "puritan",
+                "nun",
+                "monk"
+              ],
+              "example": "Giving details, the Chairman has asserted that Guru Granth Sahib revered by the Sikhs as a living God, contained verses of 15 Hindu saints and Muslim fakirs."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "word": "old-fashioned",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "A cocktail consisting chiefly of whiskey, bitters, water, and sugar."
+            }
+          ]
+        },
+        {
+          "partOfSpeech": "adjective",
+          "definitions": [
+            {
+              "definition": "In or according to styles or types no longer current or common; not modern.",
+              "example": "an old-fashioned kitchen range"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "word": "inquisitorial",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "definitions": [
+            {
+              "definition": "Of or like an inquisitor.",
+              "synonyms": [
+                "questioning",
+                "inquiring",
+                "inquisitive",
+                "inquisitorial",
+                "probing",
+                "searching",
+                "quizzing",
+                "quizzical",
+                "curious",
+                "intrigued",
+                "investigative"
+              ],
+              "example": "he was questioning her in a cold, inquisitorial voice"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "word": "athletism",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "Athleticism."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "word": "vague",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "definitions": [
+            {
+              "definition": "Of uncertain, indefinite, or unclear character or meaning.",
+              "synonyms": [
+                "indistinct",
+                "indefinite",
+                "indeterminate",
+                "unclear"
+              ],
+              "example": "many patients suffer vague symptoms"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "word": "advocacy",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "Public support for or recommendation of a particular cause or policy.",
+              "synonyms": [
+                "support for",
+                "argument for",
+                "arguing for",
+                "calling for",
+                "pushing for",
+                "pressing for"
+              ],
+              "example": "their advocacy of traditional family values"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "word": "birdcage",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "A cage for pet birds, typically made of wire or cane.",
+              "synonyms": [
+                "pen",
+                "run",
+                "cage",
+                "hutch",
+                "enclosure",
+                "pound",
+                "lock-up"
+              ],
+              "example": "He always loved birds,\u2019 said Anthony, pointing to the three birdcages with birds hanging up in his uncle's home."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "word": "reflectible",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "definitions": [
+            {
+              "definition": "Able to be reflected or to reflect."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "word": "pastern",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "The sloping part of a horse's foot between the fetlock and the hoof.",
+              "example": "The hoof pastern axis may be broken forward or broken backward and the heel angle decreased with a low heel (Figure 2-note the low heel angle on this two month old colt)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "word": "lenient",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "definitions": [
+            {
+              "definition": "(of punishment or a person in authority) permissive, merciful, or tolerant.",
+              "synonyms": [
+                "merciful",
+                "clement",
+                "sparing",
+                "forgiving",
+                "forbearing",
+                "tolerant",
+                "moderate",
+                "charitable",
+                "humane",
+                "indulgent",
+                "easy-going",
+                "magnanimous",
+                "sympathetic",
+                "compassionate",
+                "pitying",
+                "kind",
+                "kindly",
+                "kind-hearted",
+                "benevolent",
+                "gentle"
+              ],
+              "example": "judges were far too lenient with petty criminals"
+            },
+            {
+              "definition": "Emollient."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "word": "massage",
+      "meanings": [
+        {
+          "partOfSpeech": "transitive verb",
+          "definitions": [
+            {
+              "definition": "Rub and knead (a person or part of the body) with the hands.",
+              "synonyms": [
+                "rub",
+                "rub down",
+                "knead",
+                "palpate",
+                "manipulate",
+                "pummel",
+                "work"
+              ],
+              "example": "she massaged his tired muscles"
+            },
+            {
+              "definition": "Manipulate (figures) to give a more acceptable result.",
+              "synonyms": [
+                "alter",
+                "tamper with",
+                "manipulate",
+                "doctor",
+                "falsify",
+                "juggle",
+                "fiddle with",
+                "tinker with",
+                "distort",
+                "change",
+                "rig",
+                "interfere with",
+                "misrepresent"
+              ],
+              "example": "the accounts had been massaged and adjusted to suit the government"
+            }
+          ]
+        },
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "The rubbing and kneading of muscles and joints of the body with the hands, especially to relieve tension or pain.",
+              "synonyms": [
+                "rub-down",
+                "rubbing",
+                "rub",
+                "kneading",
+                "palpation",
+                "manipulation",
+                "pummelling"
+              ],
+              "example": "massage can ease tiredness and jet lag"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "word": "owler",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "A person engaged in the illegal exportation of wool or sheep from England."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "word": "outnoise",
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "definitions": [
+            {
+              "definition": "To make more noise than; to drown the noise of."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "word": "signification",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "The representation or conveying of meaning.",
+              "example": "film comes closer than other forms of signification to resemblance of reality"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "word": "hover",
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "definitions": [
+            {
+              "definition": "Remain in one place in the air.",
+              "synonyms": [
+                "be suspended",
+                "be poised",
+                "hang",
+                "float",
+                "levitate",
+                "drift",
+                "fly",
+                "flutter"
+              ],
+              "example": "Army helicopters hovered overhead"
+            }
+          ]
+        },
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "An act of remaining in the air in one place.",
+              "example": "keep the model in a stable hover"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "word": "underclothing",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "Clothing worn under other clothes, typically next to the skin.",
+              "example": "She helps Sarah into fresh underclothing and a clean robe."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "word": "overseer",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "A person who supervises others, especially workers.",
+              "synonyms": [
+                "supervisor",
+                "foreman",
+                "forewoman",
+                "chargehand",
+                "team leader",
+                "controller",
+                "manager",
+                "manageress",
+                "line manager"
+              ],
+              "example": "We also thank our area engineer, overseer workers, and FAS overseers for their help and support."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "word": "self-torture",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "The inflicting of pain, especially mental pain, on oneself.",
+              "example": "the poem explores with dramatic intensity the human capacity for self-torture"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "word": "relaxative",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "Relaxant."
+            }
+          ]
+        },
+        {
+          "partOfSpeech": "adjective",
+          "definitions": [
+            {
+              "definition": "Relaxant."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "word": "cheap-jack",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "A seller of cheap inferior goods, typically a hawker at a fair or market.",
+              "example": "A cheapjack calling himself Dr Marigold took pity on this deaf and dumb child who resembled his daughter who had died."
+            }
+          ]
+        },
+        {
+          "partOfSpeech": "adjective",
+          "definitions": [
+            {
+              "definition": "Of inferior quality.",
+              "synonyms": [
+                "poor-quality",
+                "second-rate",
+                "third-rate",
+                "substandard",
+                "low-grade",
+                "inferior",
+                "common",
+                "vulgar",
+                "shoddy",
+                "trashy",
+                "tawdry",
+                "tinny",
+                "brassy",
+                "worthless",
+                "meretricious",
+                "cheap and nasty",
+                "cheapjack",
+                "gimcrack",
+                "Brummagem",
+                "pinchbeck"
+              ],
+              "example": "a cheapjack vehicle"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "word": "stabler",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "definitions": [
+            {
+              "definition": "(of an object or structure) not likely to give way or overturn; firmly fixed.",
+              "synonyms": [
+                "firm",
+                "solid",
+                "steady",
+                "secure",
+                "fixed",
+                "strong",
+                "fast",
+                "stout",
+                "sturdy",
+                "safe",
+                "moored",
+                "anchored",
+                "stuck down",
+                "immovable",
+                "well built",
+                "well constructed",
+                "substantial"
+              ],
+              "example": "specially designed dinghies that are very stable"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "word": "advertisement",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "A notice or announcement in a public medium promoting a product, service, or event or publicizing a job vacancy.",
+              "synonyms": [
+                "notice",
+                "announcement",
+                "bulletin"
+              ],
+              "example": "advertisements for alcoholic drinks"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "word": "revictual",
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "definitions": [
+            {
+              "definition": "To supply (a place, fleet, etc.) with a fresh stock of provisions. Also reflexive. Now chiefly historical."
+            },
+            {
+              "definition": "To procure or take in a fresh supply of provisions."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "word": "football",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "A form of team game played in North America with an oval ball on a field marked out as a gridiron.",
+              "example": "a football club"
+            },
+            {
+              "definition": "A ball used in football, either oval (as in American football) or round (as in soccer), typically made of leather or plastic and filled with compressed air.",
+              "example": "But, when you are carrying one of the footballs or the soccer ball, you can be tackled."
+            },
+            {
+              "definition": "A briefcase containing authentication codes and other items that allow the US president to authorize a nuclear strike at any time.",
+              "example": "wherever the president travels, a military aide stays close with the football"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "word": "mastiff",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "A dog of a large, strong breed with drooping ears and pendulous lips.",
+              "example": "News of the fatal attack has prompted enquiries from prospective owners to kennels that raise the dogs, which were originally bred from cattle dogs, mastiffs and bulldogs brought to the Canary Islands by British settlers."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "word": "displume",
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "definitions": [
+            {
+              "definition": "Remove feathers from (a bird).",
+              "synonyms": [
+                "remove the feathers from",
+                "strip of feathers"
+              ],
+              "example": "The Austrian eagle was only to escape from one enemy, to be displumed by another."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "word": "alloxanate",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "A salt of alloxanic acid; alloxanic acid in the form of a salt or anion."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "word": "deduce",
+      "meanings": [
+        {
+          "partOfSpeech": "transitive verb",
+          "definitions": [
+            {
+              "definition": "Arrive at (a fact or a conclusion) by reasoning; draw as a logical conclusion.",
+              "synonyms": [
+                "conclude",
+                "come to the conclusion",
+                "reason",
+                "work out",
+                "gather",
+                "infer",
+                "draw the inference"
+              ],
+              "example": "little can be safely deduced from these figures"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "word": "alcoholometric",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "definitions": [
+            {
+              "definition": "Of or relating to alcoholometry; determined by means of an alcoholometer."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "word": "imprudent",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "definitions": [
+            {
+              "definition": "Not showing care for the consequences of an action; rash.",
+              "synonyms": [
+                "unwise",
+                "injudicious",
+                "incautious",
+                "unwary"
+              ],
+              "example": "it would be imprudent to leave her winter coat behind"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "word": "forestay",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "A stay leading forward and down to support a ship's foremast.",
+              "example": "We prefer the \u2018old way,\u2019 a light hung near the forestay not too far above the deck."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "word": "storehouse",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "A building used for storing goods.",
+              "synonyms": [
+                "warehouse",
+                "depository",
+                "repository",
+                "store",
+                "storeroom",
+                "depot",
+                "entrep\u00f4t"
+              ],
+              "example": "Beside the town of Habuwa are remains of dwellings, storehouses and administrative buildings dating back to the Hyksos and the New Kingdom periods, as well as a great many ovens for baking bread to feed a large number of soldiers."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "word": "baccarat",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "A gambling card game in which players hold two- or three-card hands, the winning hand being that giving the highest remainder when its face value is divided by ten.",
+              "example": "The 74,252 square foot casino now offers baccarat, blackjack, Caribbean stud poker, craps, Let It Ride, Roulette and Spanish 21."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "word": "hermit",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "A person living in solitude as a religious discipline.",
+              "synonyms": [
+                "recluse",
+                "solitary",
+                "loner",
+                "ascetic"
+              ],
+              "example": "Secular idleness would have little meaning in solitude, and the religious contemplation of the hermit or monk is not in question here."
+            },
+            {
+              "definition": "A hummingbird found in the shady lower layers of tropical forests, foraging along a regular route.",
+              "example": "A local guide took us out the first morning for a half-day of birding, including a visit to a lek of performing green hermit hummingbirds, and then got us on our way to the Canopy Tower, a short distance north of the city."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "word": "consequence",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "A result or effect of an action or condition.",
+              "synonyms": [
+                "result",
+                "upshot",
+                "outcome",
+                "out-turn",
+                "sequel",
+                "effect",
+                "reaction",
+                "repercussion",
+                "reverberations",
+                "ramification",
+                "end",
+                "end result",
+                "conclusion",
+                "termination",
+                "culmination",
+                "denouement",
+                "corollary",
+                "concomitant",
+                "aftermath",
+                "fruit",
+                "fruits",
+                "product",
+                "produce",
+                "by-product"
+              ],
+              "example": "many have been laid off from work as a consequence of the administration's policies"
+            },
+            {
+              "definition": "Importance or relevance.",
+              "synonyms": [
+                "importance",
+                "import",
+                "significance",
+                "account",
+                "moment",
+                "momentousness",
+                "substance",
+                "note",
+                "mark",
+                "prominence",
+                "value",
+                "weightiness",
+                "weight",
+                "concern",
+                "interest",
+                "gravity",
+                "seriousness"
+              ],
+              "example": "the past is of no consequence"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "word": "naiad",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "(in classical mythology) a water nymph said to inhabit a river, spring, or waterfall.",
+              "example": "One day he inadvertently bathed in the spring of the naiad he had spurned."
+            },
+            {
+              "definition": "The aquatic larva or nymph of a dragonfly, mayfly, or stonefly.",
+              "example": "Superfluous killing has been reported for a diverse group of animals, including zooplankton, stoats and weasels, damselfly naiads, wolves, predaceous mites, and spiders."
+            },
+            {
+              "definition": "A submerged aquatic plant with narrow leaves and minute flowers."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "word": "mistakingly",
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "definitions": [
+            {
+              "definition": "Erroneously, incorrectly, mistakenly."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "word": "nitrate",
+      "meanings": [
+        {
+          "partOfSpeech": "transitive verb",
+          "definitions": [
+            {
+              "definition": "Treat (a substance) with nitric acid (typically a concentrated mixture of nitric and sulfuric acids), especially so as to introduce nitro groups.",
+              "example": "nitrated polycyclic aromatic hydrocarbons"
+            }
+          ]
+        },
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "A salt or ester of nitric acid, containing the anion NO\u2083\u207b or the group \u2014NO\u2083",
+              "example": "preserved meat and vegetables contain nitrates"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "word": "concent",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "Generally. Agreement, accord, harmony; an instance of this."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "word": "howsoever",
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "definitions": [
+            {
+              "definition": "To whatever extent.",
+              "example": "any quantity howsoever small"
+            }
+          ]
+        },
+        {
+          "partOfSpeech": "conjunction",
+          "definitions": [
+            {
+              "definition": "In whatever way; regardless of how.",
+              "example": "howsoever it came into being, it is good to look at"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "word": "traditive",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "definitions": [
+            {
+              "definition": "Characterized by, belonging to, or transmitted by tradition; traditional."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 61,
+      "word": "diastolic",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "definitions": [
+            {
+              "definition": "Relating to the phase of the heartbeat when the heart muscle relaxes and allows the chambers to fill with blood."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "word": "traditionally",
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "definitions": [
+            {
+              "definition": "As part of a long-established custom, practice, or belief; typically.",
+              "example": "behavior that is traditionally associated with adolescence"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 63,
+      "word": "bogus",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "definitions": [
+            {
+              "definition": "Not genuine or true; fake.",
+              "synonyms": [
+                "fake",
+                "faked",
+                "spurious",
+                "false",
+                "fraudulent",
+                "sham",
+                "deceptive",
+                "misleading",
+                "pretended"
+              ],
+              "example": "a bogus insurance claim"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "word": "defect",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "A shortcoming, imperfection, or lack.",
+              "synonyms": [
+                "fault",
+                "flaw",
+                "imperfection",
+                "deficiency",
+                "weakness",
+                "weak point",
+                "weak spot",
+                "inadequacy",
+                "shortcoming",
+                "limitation",
+                "failing",
+                "obstruction"
+              ],
+              "example": "genetic defects"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 65,
+      "word": "enchorial",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "definitions": [
+            {
+              "definition": "Denoting or relating to the kind of language used by ordinary people; colloquial or demotic.",
+              "synonyms": [
+                "popular"
+              ],
+              "example": "The enchorial language was not placed on sacred edifices."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 66,
+      "word": "trombone",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "A large brass wind instrument with straight tubing in three sections, ending in a bell over the player's left shoulder, different fundamental notes being made using a forward-pointing extendable slide.",
+              "example": "The works required four trumpets, three trombones, one tuba, and several percussion instruments including bells & whistles!"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 67,
+      "word": "brewer",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "A person or company that manufactures beer.",
+              "example": "pubs owned by regional brewers"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 68,
+      "word": "entitative",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "definitions": [
+            {
+              "definition": "Relating to or possessing material existence."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 69,
+      "word": "sunken",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "definitions": [
+            {
+              "definition": "Having sunk or been submerged in water.",
+              "example": "the wreck of a sunken ship"
+            },
+            {
+              "definition": "At a lower level than the surrounding area.",
+              "synonyms": [
+                "below ground level",
+                "at a lower level",
+                "lowered",
+                "recessed"
+              ],
+              "example": "a sunken garden"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 70,
+      "word": "niobate",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "A salt containing oxyanions of niobium."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 71,
+      "word": "moonbeam",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "A ray of moonlight.",
+              "example": "They were horses - No, unicorns, galloping across a landscape of mountains and valleys into a mysterious realm of twilight and moonbeams."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 72,
+      "word": "zouave",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "A member of a light-infantry corps in the French army, originally formed of Algerians and long retaining their oriental uniform.",
+              "example": "In an attempt to avoid further bloodshed Pius asked his own army, the Zouaves, to lay down their arms, fled the Quirinal (papal palace) and shut himself up in the Vatican."
+            },
+            {
+              "definition": "Women's trousers with wide tops, tapering to a narrow ankle."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 73,
+      "word": "chatty",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "definitions": [
+            {
+              "definition": "(of a person) fond of talking in an easy, informal way.",
+              "synonyms": [
+                "talkative",
+                "communicative",
+                "expansive",
+                "forthcoming",
+                "open",
+                "unreserved",
+                "gossipy",
+                "gossiping",
+                "garrulous",
+                "loquacious",
+                "voluble",
+                "verbose",
+                "effusive",
+                "gushing",
+                "glib"
+              ],
+              "example": "the driver was very chatty"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 74,
+      "word": "coarct",
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "definitions": [
+            {
+              "definition": "Compress or constrict; press together.",
+              "synonyms": [
+                "flatten"
+              ],
+              "example": "blood pressure was measured immediately before and after coarcting the aorta"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 75,
+      "word": "orthognathous",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "definitions": [
+            {
+              "definition": "(especially of a person) having a jaw that does not project or recede, so that the facial profile is nearly vertical."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 76,
+      "word": "sometime",
+      "meanings": [
+        {
+          "partOfSpeech": "adverb",
+          "definitions": [
+            {
+              "definition": "At some unspecified or unknown time.",
+              "synonyms": [
+                "some day",
+                "one day",
+                "one of these days",
+                "at some point in the future",
+                "at some time in the future",
+                "at a future date",
+                "at a future time",
+                "one of these fine days",
+                "sooner or later",
+                "by and by",
+                "in due course",
+                "in the fullness of time",
+                "in the long run"
+              ],
+              "example": "you must come and have supper sometime"
+            }
+          ]
+        },
+        {
+          "partOfSpeech": "adjective",
+          "definitions": [
+            {
+              "definition": "Former.",
+              "synonyms": [
+                "former",
+                "past",
+                "previous",
+                "prior",
+                "foregoing",
+                "late",
+                "erstwhile",
+                "one-time",
+                "as was",
+                "ex-"
+              ],
+              "example": "the sometime editor of the paper"
+            },
+            {
+              "definition": "Occasional.",
+              "synonyms": [
+                "infrequent",
+                "intermittent",
+                "irregular",
+                "periodic",
+                "sporadic",
+                "odd",
+                "random",
+                "casual",
+                "desultory",
+                "incidental",
+                "uncommon",
+                "episodic",
+                "few and far between",
+                "fitful",
+                "spasmodic",
+                "isolated",
+                "rare"
+              ],
+              "example": "a sometime contributor"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 77,
+      "word": "anthropical",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "definitions": [
+            {
+              "definition": "Concerned with or relating to humanity or human nature."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 78,
+      "word": "jurat",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "A person who has taken an oath or who performs a duty on oath, e.g. a juror.",
+              "example": "On one occasion it was declared impossible to proceed with co-option of a jurat replacement because the community had not been forewarned to attend that particular meeting."
+            },
+            {
+              "definition": "A statement on an affidavit of when, where, and before whom it was sworn.",
+              "example": "The jurat to this affidavit was not properly completed."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 79,
+      "word": "jihad",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "A struggle or fight against the enemies of Islam.",
+              "example": "he declared a jihad against the infidels"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 80,
+      "word": "epitome",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "A person or thing that is a perfect example of a particular quality or type.",
+              "synonyms": [
+                "personification",
+                "embodiment",
+                "incarnation",
+                "paragon"
+              ],
+              "example": "she looked the epitome of elegance and good taste"
+            },
+            {
+              "definition": "A summary of a written work; an abstract.",
+              "synonyms": [
+                "summary",
+                "abstract",
+                "synopsis",
+                "precis",
+                "r\u00e9sum\u00e9",
+                "outline",
+                "digest",
+                "recapitulation",
+                "summation",
+                "compendium",
+                "potted version"
+              ],
+              "example": "Or, as another scholar has said, the creed is an epitome and summary that guides and directs a proper reading of Scripture."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 81,
+      "word": "dispersed",
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "definitions": [
+            {
+              "definition": "Distribute or spread over a wide area.",
+              "synonyms": [
+                "scatter",
+                "disseminate",
+                "distribute",
+                "spread",
+                "broadcast",
+                "diffuse",
+                "strew",
+                "sow",
+                "sprinkle",
+                "pepper"
+              ],
+              "example": "storms can disperse seeds via high altitudes"
+            }
+          ]
+        },
+        {
+          "partOfSpeech": "adjective",
+          "definitions": [
+            {
+              "definition": "Denoting a phase dispersed in another phase, as in a colloid.",
+              "example": "emulsions should be examined after storage for droplet size of the disperse phase"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 82,
+      "word": "valorous",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "definitions": [
+            {
+              "definition": "Showing great courage in the face of danger, especially in battle."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 83,
+      "word": "manichaeism",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "A dualistic religious system with Christian, Gnostic, and pagan elements, founded in Persia in the 3rd century by Manes (c.216\u2013c.276). The system was based on a supposed primeval conflict between light and darkness. It spread widely in the Roman Empire and in Asia, and survived in eastern Turkestan (Xinjiang) until the 13th century.",
+              "example": "The kings converted to Manichaeism, the \u2018religion of light\u2019, imported by refugees from the Middle East."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 84,
+      "word": "phyle",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "Any of various social groups or political divisions within a community, based on or sustained by ties of kinship; a tribe, a clan; especially a major political division in Attica created by the reforms of Cleisthenes (507 b.c.) and having various administrative, military, and social functions."
+            },
+            {
+              "definition": "A cavalry unit provided and manned by an Attic phyle."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 85,
+      "word": "exorcist",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "A person who expels or attempts to expel a supposed evil spirit from a person or place."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 86,
+      "word": "infra-red",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "The infrared region of the spectrum; infrared radiation.",
+              "example": "Wavelengths of light in this region of the spectrum cause heating so blocking infrared reduces unwanted rays from the sun."
+            }
+          ]
+        },
+        {
+          "partOfSpeech": "adjective",
+          "definitions": [
+            {
+              "definition": "(of electromagnetic radiation) having a wavelength just greater than that of the red end of the visible light spectrum but less than that of microwaves. Infrared radiation has a wavelength from about 800 nm to 1 mm, and is emitted particularly by heated objects.",
+              "example": "Terahertz light is a little-studied realm of the electromagnetic spectrum between microwave and infrared light."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 87,
+      "word": "unstring",
+      "meanings": [
+        {
+          "partOfSpeech": "transitive verb",
+          "definitions": [
+            {
+              "definition": "Remove from a string.",
+              "example": "carefully undo the knots in the leather and unstring the beads"
+            },
+            {
+              "definition": "Remove or relax the string or strings of (a bow or musical instrument).",
+              "example": "Mark the location of the grip on the bowstring and unstring the bow."
+            },
+            {
+              "definition": "Unnerve; upset.",
+              "example": "the small mishap unstrung her completely"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 88,
+      "word": "capsule",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "A small case or container, especially a round or cylindrical one.",
+              "synonyms": [
+                "cassette",
+                "magazine",
+                "cylinder",
+                "canister",
+                "container",
+                "capsule",
+                "case",
+                "pack",
+                "packet",
+                "package"
+              ],
+              "example": "he showed us the cylinder of the gun filled with six plastic capsules"
+            },
+            {
+              "definition": "A tough sheath or membrane that encloses something in the body, such as a kidney, a lens, or a synovial joint.",
+              "example": "The prostate gland is enclosed in a prostatic capsule and surrounded by extraperitoneal connective tissue."
+            },
+            {
+              "definition": "The foil or plastic covering the cork of a wine bottle.",
+              "synonyms": [
+                "cover",
+                "seal",
+                "cap",
+                "top"
+              ],
+              "example": "it is an alternative name for the capsule which covers the cork and neck of a wine bottle."
+            },
+            {
+              "definition": "A dry fruit that releases its seeds by bursting open when ripe, such as a pea pod.",
+              "synonyms": [
+                "seed case",
+                "pod",
+                "shell",
+                "husk",
+                "hull",
+                "case",
+                "sheath"
+              ],
+              "example": "The leaves of the great poplar he climbed in gleamed as though polished; bead-like fruit dangled, inviting young hands to burst the green capsules open and release the fluffy seed."
+            },
+            {
+              "definition": "The spore-producing structure of mosses and liverworts, typically borne on a stalk.",
+              "example": "For example, in mosses the sporophyte is a capsule atop a slender stalk that grows out of the top of the gametophyte."
+            },
+            {
+              "definition": "(of a piece of writing) shortened but retaining the essence of the original; condensed.",
+              "example": "a capsule review of the movie"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 89,
+      "word": "minimus",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "= \"minim\"."
+            },
+            {
+              "definition": "The smallest finger or toe."
+            }
+          ]
+        },
+        {
+          "partOfSpeech": "adjective",
+          "definitions": [
+            {
+              "definition": "In certain British boys' public schools (used as postpositive): designating the youngest or (occasionally) the newest of several pupils with the same surname. Also in extended use. Abbreviated min. or mini."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 90,
+      "word": "xenotime",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "A yellowish-brown mineral which occurs in some igneous rocks and consists of a phosphate of yttrium and other rare earth elements.",
+              "example": "Zircon, monazite, xenotime and white mica were extracted from the sample."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 91,
+      "word": "train dispatcher",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "A railway official with responsibility for the movement of trains in a particular area or on a particular stretch of line."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 92,
+      "word": "stolid",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "definitions": [
+            {
+              "definition": "(of a person) calm, dependable, and showing little emotion or animation.",
+              "synonyms": [
+                "impassive",
+                "phlegmatic",
+                "unemotional",
+                "calm",
+                "placid",
+                "unexcitable"
+              ],
+              "example": "a stolid bourgeois gent"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 93,
+      "word": "gadding",
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "definitions": [
+            {
+              "definition": "Go from place to place in the pursuit of pleasure.",
+              "synonyms": [
+                "gallivant",
+                "jaunt around",
+                "flit around",
+                "run around",
+                "travel around",
+                "roam",
+                "roam around"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 94,
+      "word": "ketone",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "An organic compound containing a carbonyl group \uf301C\uf301O bonded to two hydrocarbon groups, made by oxidizing secondary alcohols. The simplest such compound is acetone.",
+              "example": "Low molecular weight aldehydes and ketones are soluble in water because the carbonyl oxygen atom allows the molecules to form strong hydrogen bonds with the molecules of water."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 95,
+      "word": "puberulent",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "definitions": [
+            {
+              "definition": "Of a leaf, stem, etc.: slightly downy with very short hairs; minutely pubescent."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 96,
+      "word": "abstractedness",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "Separation; apartness, isolation. Chiefly with from."
+            },
+            {
+              "definition": "A state of seclusion or withdrawal from worldly or sensual things; contemplation of or concentration on the spiritual. Frequently with from."
+            },
+            {
+              "definition": "The quality of existing or being presented in abstract form, rather than with reference to concrete details or particular instances."
+            },
+            {
+              "definition": "Lack of awareness of or concentration on what is happening around one; absence of mind."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 97,
+      "word": "benevolence",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "The quality of being well meaning; kindness.",
+              "synonyms": [
+                "kindness",
+                "kind-heartedness",
+                "big-heartedness",
+                "goodness",
+                "goodwill",
+                "benignity",
+                "compassion",
+                "consideration",
+                "thoughtfulness",
+                "decency",
+                "public-spiritedness",
+                "social conscience",
+                "charity",
+                "charitableness",
+                "altruism",
+                "humanity",
+                "humanitarianism",
+                "philanthropism"
+              ],
+              "example": "As Confucius saw long ago, benevolence or concern for humanity is the indispensable root of it all."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 98,
+      "word": "fog",
+      "meanings": [
+        {
+          "partOfSpeech": "verb",
+          "definitions": [
+            {
+              "definition": "(with reference to a glass surface) cover or become covered with steam.",
+              "synonyms": [
+                "steam up",
+                "mist over",
+                "cloud over",
+                "film over",
+                "become misty",
+                "become blurred",
+                "become covered in condensation"
+              ],
+              "example": "hot steam drifted about her, fogging up the window"
+            },
+            {
+              "definition": "Bewilder or puzzle (someone)",
+              "synonyms": [
+                "muddle",
+                "daze",
+                "stupefy",
+                "fuddle",
+                "befuddle",
+                "bewilder",
+                "confuse",
+                "perplex",
+                "baffle",
+                "obscure"
+              ],
+              "example": "she stared at him, confusion fogging her brain"
+            },
+            {
+              "definition": "Treat with something, especially an insecticide, in the form of a spray.",
+              "example": "Winnipeg stopped fogging for mosquitoes three years ago"
+            }
+          ]
+        },
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "A thick cloud of tiny water droplets suspended in the atmosphere at or near the earth's surface which obscures or restricts visibility (to a greater extent than mist; strictly, reducing visibility to below 1 km)",
+              "synonyms": [
+                "mist",
+                "mistiness",
+                "fogginess",
+                "haar",
+                "smog",
+                "murk",
+                "murkiness",
+                "haze",
+                "haziness",
+                "gloom",
+                "gloominess"
+              ],
+              "example": "the collision occurred in thick fog"
+            },
+            {
+              "definition": "Something that obscures and confuses a situation or someone's thought processes.",
+              "synonyms": [
+                "daze",
+                "stupor",
+                "trance",
+                "haze",
+                "muddle"
+              ],
+              "example": "the origins of local government are lost in a fog of detail"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 99,
+      "word": "gorcock",
+      "meanings": [
+        {
+          "partOfSpeech": "noun",
+          "definitions": [
+            {
+              "definition": "The male of the red grouse.",
+              "example": "Gorcocks, being so big and having the ability to rip and shred, I thought at first that it must be some gorcocks chowing down."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 100,
+      "word": "hydraulic",
+      "meanings": [
+        {
+          "partOfSpeech": "adjective",
+          "definitions": [
+            {
+              "definition": "Denoting, relating to, or operated by a liquid moving in a confined space under pressure.",
+              "example": "hydraulic fluid"
+            },
+            {
+              "definition": "Relating to the science of hydraulics.",
+              "example": "hydraulic analysis of streams"
+            },
+            {
+              "definition": "(of cement) hardening under water.",
+              "example": "If you see cracks in the walls leaking, some of these can be repaired with hydraulic cement or crack injection."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
