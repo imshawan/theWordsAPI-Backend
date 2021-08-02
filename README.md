@@ -15,10 +15,22 @@ npm install && npm start
 ```
 ## API Usage :: Methods supported -> ['GET']
 
+### API URL
+
+[https://the-words.herokuapp.com/api/v2/definitions/en-US/entries/hello](https://the-words.herokuapp.com/api/v2/definitions/en-US/entries/hello)
+
 Using Curl:
 ```
 curl https://the-words.herokuapp.com/api/v2/definitions/en-US/entries/hello
    -H "Accept: application/json" 
+```
+Uing Python
+
+```python 
+URL = f"https://the-words.herokuapp.com/api/v2/definitions/en-US/entries/hello"
+HEADERS={'Accept': 'application/json'}
+response = requests.get(URL, headers=HEADERS)
+print(response.text)
 ```
 
 Response:
