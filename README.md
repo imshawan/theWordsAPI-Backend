@@ -2,6 +2,9 @@
 
 TheWordsAPI is a free English-English dictionary API developed for educational purposes.
 
+
+>  **Important Note:** Only dummy database (100 entries each) is provided with this source code, please prepare your own database for deployment purposes.
+
 ## Testing
 
 ```bash
@@ -15,9 +18,14 @@ npm install && npm start
 ```
 ## API Usage :: Methods supported -> ['GET']
 
-### API URL
+### API URLS 
 
-[https://the-words.herokuapp.com/api/v2/definitions/en-US/entries/hello](https://the-words.herokuapp.com/api/v2/definitions/en-US/entries/hello)
+[https://the-words.herokuapp.com/api/v2/definitions/en-US/entries/](https://the-words.herokuapp.com/api/v2/definitions/en-US/entries/)
+
+[https://the-words.herokuapp.com/api/v2/audio/en-US/entries/](https://the-words.herokuapp.com/api/v2/audio/en-US/entries/)
+
+
+### To fetch definations
 
 Using Curl:
 ```
@@ -81,6 +89,35 @@ Response:
 }
 ```
 
+### To fetch pronunciation data
+
+Using Curl:
+```
+curl https://the-words.herokuapp.com/api/v2/audio/en-US/entries/hello
+   -H "Accept: application/json" 
+```
+Uing Python
+
+```python 
+URL = f"https://the-words.herokuapp.com/api/v2/audio/en-US/entries/hello"
+HEADERS={'Accept': 'application/json'}
+response = requests.get(URL, headers=HEADERS)
+print(response.text)
+```
+
+Response:
+```
+{
+    "id": 22998,
+    "word": "hello",
+    "contents": [
+        {
+            "pronunciation": "he-loh, huh-, hel-oh",
+            "audio": "https://static.sfdict.com/audio/lunawav/H01/H0178500.ogg"
+        }
+    ]
+}
+```
 
 ## Deployment
 
