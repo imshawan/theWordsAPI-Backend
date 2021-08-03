@@ -32,7 +32,7 @@ Using Curl:
 curl https://the-words.herokuapp.com/api/v2/definitions/en-US/entries/hello
    -H "Accept: application/json" 
 ```
-Uing Python
+Using Python
 
 ```python 
 URL = f"https://the-words.herokuapp.com/api/v2/definitions/en-US/entries/hello"
@@ -96,7 +96,7 @@ Using Curl:
 curl https://the-words.herokuapp.com/api/v2/audio/en-US/entries/hello
    -H "Accept: application/json" 
 ```
-Uing Python
+Using Python
 
 ```python 
 URL = f"https://the-words.herokuapp.com/api/v2/audio/en-US/entries/hello"
