@@ -9,10 +9,19 @@ const audio_db_1 = low(Audio_adapter_1)
 
 function getDefinition(queryString){
     var str = queryString[0].toLowerCase();
-    var errorString = {
-        status: "error",
-        message: "Your query '" + str + "' was not found in our database"
-    };
+    var errorString = {};
+    if (!str){
+        errorString = {
+            status: "error",
+            message: "You passed on a blank query, please pass a query to be searched for."
+        };
+    }
+    else{
+        errorString = {
+            status: "error",
+            message: "Your query '" + str + "' was not found in our database"
+        };
+    }
 
     var defination_arr_1 = db_1.get('dictionary');
 
@@ -27,10 +36,20 @@ function getDefinition(queryString){
 
 function getAudioSpeech(queryString){
     var str = queryString[0].toLowerCase();
-    var errorString = {
-        status: "error",
-        message: "Your query '" + str + "' was not found in our database"
-    };
+    var errorString = {};
+    if (!str){
+        errorString = {
+            status: "error",
+            message: "You passed on a blank query, please pass a query to be searched for."
+        };
+    }
+    else{
+        errorString = {
+            status: "error",
+            message: "Your query '" + str + "' was not found in our database"
+        };
+    }
+    
     var audio_arr_1 = audio_db_1.get('audio_dictionary');
 
     var field_1 = audio_arr_1.find({"word": str}).value();
